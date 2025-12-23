@@ -11,4 +11,4 @@
 Потерян со временем. Если так боишься вирусов - иди декомпилируй самостоятельно, там лишь finishAffinity(); блок в коде.
 
 # Скачать
-[FakeMAX|https://github.com/Evgenie3311/FakeMAX/releases]
+В разделе Releases.
